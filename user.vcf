@@ -7,8 +7,8 @@ ORG:Simitri Group International;
 TITLE:Marketing Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:eileen.chng@simitrigroup.com
 TEL;type=WORK;type=VOICE:+65 6235 3297
-item1.ADR;type=WORK;type=pref:;;541 Orchard Road View\nSandcrawler\, #14-01 Liat Towers;;;238881;Singapore
+item1.ADR;type=WORK;type=pref:;;541 Orchard Road View\n\, #14-01 Liat Towers;;;238881;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:Simitrigroup.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
